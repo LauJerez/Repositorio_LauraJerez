@@ -1,0 +1,58 @@
+CODIGO,DESCRIPCION,TARIFA IVA LEY VIGENTE
+1110100,Arroz,0
+1110200,Harina de maiz y otras harinas,0.05
+1110300,Pastas alimenticias,0.05
+1110400,Cereales preparados,0.19
+1110500,Otros cereales,0.05
+1120100,Pan,0
+1120200,Otros productos de panaderia,0
+1210100,Papa,0
+1210200,Yuca,0
+1210300,Otros tuberculos,0
+1220100,Platano,0
+1310100,Cebolla,0
+1310200,Tomate,0
+1310300,Zanahoria,0
+1310400,Revuelto verde,0
+1310500,Otras hortalizas y legumbres frescas,0
+1320100,Frijol,0
+1320200,Arveja,0
+1320300,Otras hortalizas y legumbres secas,0
+1320400,Hortalizas y legumbres enlatadas,0.19
+1410100,Naranjas,0
+1410200,Bananos,0
+1410300,Tomate de arbol,0
+1410400,Moras,0
+1410500,Otras frutas frescas,0
+1420100,Frutas en conserva o secas,0.19
+1510100,Res,0
+1510200,Cerdo,0
+1510300,Pollo,0
+1520100,Carnes frias y embutidos,0.05
+1610100,Pescado de mar rio y enlatado,0
+1620100,Otros productos de mar,0.19
+1710100,Huevos,0
+1720100,Leche,0
+1720200,Queso,0
+1720300,Otros derivados lacteos,0.19
+1730100,Aceites,0.19
+1730200,Grasas,0.19
+1810100,Panela,0
+1810200,Azucar,0.05
+1820100,Cafe,0.05
+1820200,Chocolate,0.05
+1830100,Sal,0
+1830200,Otros condimentos,0.19
+1840100,Sopas y cremas,0.19
+1840200,Salsas y aderezos,0.19
+1840300,Dulces confites y gelatinas,0.19
+1840400,Otros abarrotes,0.19
+1850100,Jugos,0.19
+1850200,Gaseosas y maltas,0.19
+1850300,Agua,0
+1910100,Almuerzo,0
+1920100,Hamburguesa,0
+1920200,Comidas rapidas calientes,0
+1930100,Gastos de cafeteria,0
+1930200,Comidas rapidas frias,0
+
