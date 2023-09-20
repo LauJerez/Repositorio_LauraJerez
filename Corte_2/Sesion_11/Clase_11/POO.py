@@ -5,8 +5,8 @@ class Estudiante:
         self.edad = None                #
         self.nacionalidad = 'Colombia'  #
 
-    def entender(self):
-        return 'Si, aprendi mucho hoy :)'
+    def entender(self):                       # Metodo
+        return 'Si, aprendi mucho hoy :)'     #
 
 def main():
 
