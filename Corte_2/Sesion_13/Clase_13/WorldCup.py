@@ -1,20 +1,13 @@
-
-
 def lectura():
-    # f = open('wcm.csv','r',encoding="utf8")
-    # line = f.readline() 
-    # for i in line:
-    #     a=i.rstrip('\n').split(',')
-    #     print(a)
-
-
-    # while line!='':
-    #     print(line)
-    #     opc = input('presione enter') 
-    #     line = f.readline()
-    # f.close()
-    # print('Finalizo la lectura')
-    pass
+    f = open('wcm.csv','r',encoding="utf8")
+    line = f.readline()
+    listado=[] 
+    for i in line:
+        a=i.rstrip('\n').split(',')
+        listado.append(a)
+    print(listado[0])
+    f.close()
+    return(listado)
 
 def campeon_mundial(listado):
     campeones={}
@@ -36,7 +29,7 @@ def campeon_mundial(listado):
                     list_year=campeones[partidos[1]]
                     list.append(partidos[16])
                     campeones[partidos[1]]=list_year
-    campeones=dict(sorted(campeones.items()))
+    campeones=dict(sorted(campeones.items())) # Crea el diccinario o lo guarda
     print('\n-----------------Listado de Campeones mundiales-----------------\n')
     for pais,year in campeones.items():
         print(f'{pais}: campeón en {year}')
